@@ -1,4 +1,9 @@
-# ThirdAngularApp
+# FirstAngularApp
+
+![structure](https://github.com/JavaDevKKT/first-angular-app/assets/147974177/ef27e513-45e4-404c-a7fc-cbd10f95456f)
+
+![web](https://github.com/JavaDevKKT/first-angular-app/assets/147974177/34414e96-ea46-4575-ba1b-333ea555173f)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.2.
 
